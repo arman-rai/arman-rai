@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Arman
 
-<!--
-**arman-rai/arman-rai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a programmer. 
 
-Here are some ideas to get you started:
+I document some of my learning journey.
+* [Some of my public Blogs](https://blog.armanrai.com.np)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Comms
+| Platform | Link |
+| :--- | :--- |
+| **Website** | [armanrai.com.np](https://armanrai.com.np) |
+| **Discord** | [Profile](https://discord.com/users/847106395488911380) |
+| **Email** | [contact@armanrai.com.np](mailto:contact@armanrai.com.np) |
+
+> **PGP Fingerprint:** `8B77 A065 A161 240F B107  8E4A BBC3 A9A1 FCB4 2383`
+> [Download Public Key](https://github.com/arman-rai.gpg)
