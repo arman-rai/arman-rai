@@ -2,8 +2,7 @@
 
 ### I am a programmer. 
 
-I document some of my learning journey.
-* [Some of my public Blogs](https://blog.armanrai.com.np)
+I document some of my learning journey on my [public Blogs](https://blog.armanrai.com.np)
 
 ---
 
